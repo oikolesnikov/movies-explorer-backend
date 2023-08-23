@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oikolesnikov/movies-explorer-api.git"
+    "url": "git+https://github.com/oikolesnikov/movies-explorer-backend.git"
   },
   "keywords": [
     "yandex-praktikum"
@@ -18,9 +18,9 @@
   "author": "Igor Stepanov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oikolesnikov/movies-explorer-api/issues"
+    "url": "https://github.com/oikolesnikov/movies-explorer-backend/issues"
   },
-  "homepage": "https://github.com/oikolesnikov/movies-explorer-api#readme",
+  "homepage": "https://github.com/oikolesnikov/movies-explorer-backend#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.2",
