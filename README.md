@@ -41,6 +41,6 @@
 - MongoDB
 
 # Ссылки:
-- Backend: https://oikolesnikov-movies-api-b/
+- Backend: http://oikolesnikov-movies-api-b.nomoredomainsicu.ru/
 - Frontend: 
-  - Repository: https://github.com/oikolesnikov/movies-explorer-frontend/
+  - Repository: https://github.com/oikolesnikov/movies-explorer-backend/
